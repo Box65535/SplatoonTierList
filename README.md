@@ -35,7 +35,7 @@ S Tier = Overpowered
 Weapons in the S tier are the best choice for every or almost every scenario. They may be so powerful at one particular aspect of the game that they become necessary to use. Or they may have so few weaknesses that running 2, 3, or even 4 of the same weapon in a team composition is not only viable but a powerful strategy in a large number of scenarios. 
 
 S:
--Nothing for now. We may not add anything to this tier. 
+- Nothing for now. We may not add anything to this tier. 
 
 
 A Tier = Reliable
@@ -43,18 +43,18 @@ A Tier = Reliable
 Weapons in the A tier are strong in a large number of scenarios without major weaknesses. They can be used effectively on almost if not all maps and modes. What weaknesses they have can be overcome with basic team composition. When put on a team composition, these weapons provide more support to their teammates than they require from them.
 
 A+:
--Custom Range Blaster
--Tentatek Splattershot
--Zink Mini Splatling
+- Custom Range Blaster
+- Tentatek Splattershot
+- Zink Mini Splatling
 
 A:
--Bento Splat Charger + Scope
--Dynamo Roller
+- Bento Splat Charger + Scope
+- Dynamo Roller
 
 A-:
--.96 Gal Deco
--Berry Splattershot Pro
--Custom Hydra Splatling
+- .96 Gal Deco
+- Berry Splattershot Pro
+- Custom Hydra Splatling
 
 
 B Tier = Flawed
@@ -62,35 +62,34 @@ B Tier = Flawed
 Weapons in the B tier may have similar strengths to those in A tier but have some flaw that keeps them from doing everything weapons in the A tier can do. They may be weak on certain maps or they may have fewer options to draw on in response to common game scenarios. Putting one of these weapons on a team composition will mean that other teammates have to cover this weapon's weakness.
 
 B+:
--.52 Gal
--Carbon Roller
--Cherry H-3 Nozzlenose
--Custom E-Liter 3K + Scope
--E-Liter 3K + Scope
--Fresh Squiffer
--Gold Dynamo Roller
--Luna Blaster Neo
--Rapid Blaster
--Wasabi Splattershot
+- .52 Gal
+- Carbon Roller
+- Cherry H-3 Nozzlenose
+- Custom E-Liter 3K + Scope
+- E-Liter 3K + Scope
+- Gold Dynamo Roller
+- Luna Blaster Neo
+- Rapid Blaster
+- Wasabi Splattershot
 
 B:
--Custom Jet Squelcher
--Grim Range Blaster
--Heavy Splatling Deco
--Heavy Splatling Remix
--Kelp Splat Charger + Scope
--L-3 Nozzlenose D
--Slosher Deco
--Splat Charger + Scope
--Tempered Dynamo Roller
+- Custom Jet Squelcher
+- Fresh Squiffer
+- Grim Range Blaster
+- Heavy Splatling Deco
+- Heavy Splatling Remix
+- Kelp Splat Charger + Scope
+- L-3 Nozzlenose D
+- Slosher Deco
+- Splat Charger + Scope
+- Tempered Dynamo Roller
 
 B-:
--Classic Squiffer
--Custom Blaster
--Forge Splattershot Pro
--Neo Splash-o-Matic
--Octobrush
--Splattershot Pro
+- Custom Blaster
+- Forge Splattershot Pro
+- Neo Splash-o-Matic
+- Octobrush
+- Splattershot Pro
 
 
 C Tier = Niche
@@ -98,36 +97,37 @@ C Tier = Niche
 Weapons in the C tier are suboptimal choices for most scenarios, but they have a niche that allows them to be used on certain maps or team compositions. Using a weapon in the C tier will often require a strategy built around incorporating the weapon in order to function optimally. 
 
 C+:
--Blaster
--Heavy Splatling
--Krak-on Splat Roller
--Mini Splatling
--N-ZAP '83
--Splattershot
--Splattershot Jr.
--Slosher
--Soda Slosher
--Tri-Slosher
+- Blaster
+- Classic Squiffer
+- Heavy Splatling
+- Krak-on Splat Roller
+- Mini Splatling
+- N-ZAP '83
+- Splattershot
+- Splattershot Jr.
+- Slosher
+- Soda Slosher
+- Tri-Slosher
 
 C:
--.96 Gal
--H-3 Nozzlenose
--L-3 Nozzlenose
--Rapid Blaster Pro Deco
--Splat Roller
+- .96 Gal
+- H-3 Nozzlenose
+- L-3 Nozzlenose
+- Rapid Blaster Pro Deco
+- Splat Roller
 
 C-:
--.52 Deco
--Jet Squelcher
--Hydra Splatling
--Luna Blaster
--N-ZAP '85
--Neo Sploosh-o-Matic
--New Squiffer
--Octobrush Nouveau
--Rapid Blaster Deco
--Sloshing Machine
--Splash-o-Matic
+- .52 Deco
+- Jet Squelcher
+- Hydra Splatling
+- Luna Blaster
+- N-ZAP '85
+- Neo Sploosh-o-Matic
+- New Squiffer
+- Octobrush Nouveau
+- Rapid Blaster Deco
+- Sloshing Machine
+- Splash-o-Matic
 
 
 D Tier = Gimmicky
@@ -135,28 +135,28 @@ D Tier = Gimmicky
 Weapons in the D tier are suboptimal for every scenario. What makes them different from those in the C tier is that any unique advantages they bring amount to unreliable gimmicks.
 
 D+:
--Aerospray PG
--Bamboozler 14 Mk I
--Bamboozler 14 Mk II
--Bamboozler 14 Mk III
--Carbon Roller Deco
--Corocoro Splat Roller
--Dual Squelcher
--Inkbrush Nouveau
--N-ZAP '89
--Refurbished Mini Splatling
--Range Blaster
--Sloshing Machine Neo
--Sploosh-o-Matic
--Sploosh-o-Matic 7
+- Aerospray PG
+- Bamboozler 14 Mk I
+- Bamboozler 14 Mk II
+- Bamboozler 14 Mk III
+- Carbon Roller Deco
+- Corocoro Splat Roller
+- Dual Squelcher
+- Permanent Inkbrush
+- N-ZAP '89
+- Refurbished Mini Splatling
+- Range Blaster
+- Sloshing Machine Neo
+- Sploosh-o-Matic
+- Sploosh-o-Matic 7
 
 D:
--Aerospray RG
--Aerospray MG
--Custom Splattershot Jr.
--H-3 Nozzlenose D
--Inkbrush
--Permanent Inkbrush
--Rapid Blaster Pro
--Tri-Slosher Nouveau
+- Aerospray RG
+- Aerospray MG
+- Custom Splattershot Jr.
+- H-3 Nozzlenose D
+- Inkbrush
+- Inkbrush Nouveau
+- Rapid Blaster Pro
+- Tri-Slosher Nouveau
 
