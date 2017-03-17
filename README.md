@@ -4,7 +4,6 @@ Intro:
 
 This is a Splatoon 1 competitive level tier list. Really, it's more of an excercise in how to make a community tier list. The idea is to make a tier list by reaching a consensus through discussion rather than taking a vote. If you'd like to join the discussion, find us at http://tinyurl.com/inkademy.
 
-
 -------------------------------------------
 
 Rules:
@@ -17,7 +16,6 @@ For the first week, there will be unlimited nominations for changes in order to 
 
 Remember that this tier list is just for fun and is reflective of popular opinion instead of anyone's vision of what is "correct".
 
-
 -------------------------------------------
 
 The List:
@@ -28,7 +26,7 @@ A consequence of these tier definitions is that weapons in the B and C tiers can
 
 Instead of an ordered ranking, each tier has + and - sections which reflect small differences within each tier. Some sections are missing due to the original tier list missing some. Feel free to propose changes involving + and - sections that don't exist yet.
 
-
+-------------------------------------------
 
 S Tier = Overpowered
 
@@ -37,6 +35,7 @@ Weapons in the S tier are the best choice for every or almost every scenario. Th
 S:
 - Nothing for now. We may not add anything to this tier. 
 
+-------------------------------------------
 
 A Tier = Reliable
 
@@ -56,6 +55,7 @@ A-:
 - Berry Splattershot Pro
 - Custom Hydra Splatling
 
+-------------------------------------------
 
 B Tier = Flawed
 
@@ -91,6 +91,7 @@ B-:
 - Octobrush
 - Splattershot Pro
 
+-------------------------------------------
 
 C Tier = Niche
 
@@ -129,6 +130,7 @@ C-:
 - Sloshing Machine
 - Splash-o-Matic
 
+-------------------------------------------
 
 D Tier = Gimmicky
 
