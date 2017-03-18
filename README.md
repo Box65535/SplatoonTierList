@@ -119,6 +119,7 @@ C:
 
 C-:
 - .52 Deco
+- Custom Dual Squelcher
 - Jet Squelcher
 - Hydra Splatling
 - Luna Blaster
